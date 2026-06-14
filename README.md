@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kamina</h1>
+<h3 align="center">Full-Stack Developer | AI Enthusiast | UI/UX Designer</h3>
 
-<!--
-**Amina212004/Amina212004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Passionate about building modern web and mobile applications,
+exploring Artificial Intelligence, and creating beautiful user experiences.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+
+- Full-Stack Developer
+- Frontend Web Developer
+-  Mobile Developer
+-  Backend Developer
+-  Artificial Intelligence Enthusiast
+-  UI/UX Designer
+-  Always learning new technologies
+
+---
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-9370DB?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-BA55D3?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-8A2BE2?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-9370DB?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-BA55D3?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-9370DB?style=for-the-badge&logo=express&logoColor=white)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-BA55D3?style=for-the-badge&logo=flutter&logoColor=white)
+
+---
+
+## Connect With Me
+
+
+- Email: ak.fezazi@esi-sba.dz

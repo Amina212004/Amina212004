@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:A855F7,100:9333EA&height=220&section=header&text=Amina&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
-# 💜 Hi, I'm Amina 👋
-
+#  Hi, I'm Amina 
 ### Full-Stack Developer | AI Enthusiast | UI/UX Designer
 
 <p>
@@ -15,7 +14,7 @@ exploring Artificial Intelligence, and creating beautiful user experiences.
 
 ---
 
-## 💜 About Me
+##  About Me
 
 -  Full-Stack Developer
 -  Frontend Web Developer
@@ -69,12 +68,12 @@ exploring Artificial Intelligence, and creating beautiful user experiences.
 ##  GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?https://github.com/Amina212004&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?Amina212004&show_icons=true&theme=midnight-purple&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Amina212004&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amina212004&theme=midnight-purple&hide_border=true" />
 </p>
 
 ---
@@ -82,7 +81,7 @@ exploring Artificial Intelligence, and creating beautiful user experiences.
 ##  GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=https://github.com/Amina212004&theme=algolia&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Amina212004&theme=algolia&no-frame=true&margin-w=10" />
 </p>
 
 ---

@@ -65,20 +65,6 @@ exploring Artificial Intelligence, and creating beautiful user experiences.
 
 ---
 
-##  GitHub Stats
-
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amina212004&show_icons=true&theme=midnight-purple&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amina212004&layout=compact&theme=midnight-purple&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Amina212004&theme=midnight-purple&hide_border=true" />
-</p>
-
----
-
 ##  GitHub Trophies
 
 <p align="center">

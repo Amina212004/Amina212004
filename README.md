@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:A855F7,100:9333EA&height=220&section=header&text=Amina&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
 #  Hi, I'm Amina 
-### Full-Stack Developer | AI Enthusiast | UI/UX Designer
+###  Computer Science Student at the Higher School of Computer Science (ESI-SBA) in Sidi Bel Abbès, Algeria, passionate about Full-Stack Development, Artificial Intelligence, and UI/UX Design.
 
 <p>
 Passionate about building web and mobile applications,

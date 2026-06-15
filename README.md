@@ -1,17 +1,24 @@
-<h1 align="center">Hi 👋, I'm Amina </h1>
-<h3 align="center">Full-Stack Developer | AI Enthusiast | UI/UX Designer</h3>
+<div align="center">
 
-<p align="center">
-Passionate about building modern web and mobile applications,
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:A855F7,100:9333EA&height=220&section=header&text=Amina&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+
+# 💜 Hi, I'm Amina 👋
+
+### Full-Stack Developer | AI Enthusiast | UI/UX Designer
+
+<p>
+Passionate about building web and mobile applications,
 exploring Artificial Intelligence, and creating beautiful user experiences.
 </p>
 
+</div>
+
 ---
 
-##  About Me
+## 💜 About Me
 
-- Full-Stack Developer
-- Frontend Web Developer
+-  Full-Stack Developer
+-  Frontend Web Developer
 -  Mobile Developer
 -  Backend Developer
 -  Artificial Intelligence Enthusiast
@@ -20,28 +27,67 @@ exploring Artificial Intelligence, and creating beautiful user experiences.
 
 ---
 
-## Tech Stack
+##  Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-9370DB?style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-BA55D3?style=for-the-badge&logo=openjdk&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" />
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/React-8A2BE2?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-9370DB?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-BA55D3?style=for-the-badge&logo=css3&logoColor=white)
+###  Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+</p>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-9370DB?style=for-the-badge&logo=express&logoColor=white)
+###  Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
 
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-BA55D3?style=for-the-badge&logo=flutter&logoColor=white)
+###  Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+###  Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" />
+</p>
+
+###  Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,vscode,linux" />
+</p>
+
+###  AI & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
 ---
 
-## Connect With Me
+##  GitHub Stats
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?https://github.com/Amina212004&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?&layout=compact&theme=midnight-purple&hide_border=true" />
+</p>
 
-- Email: ak.fezazi@esi-sba.dz
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Amina212004&theme=midnight-purple&hide_border=true" />
+</p>
+
+---
+
+##  GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=https://github.com/Amina212004&theme=algolia&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+##  Connect With Me
+
+ **Email:** ak.fezazi@esi-sba.dz
+
